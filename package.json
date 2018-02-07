@@ -1,0 +1,20 @@
+{
+  "name": "app.js",
+  "version": "0.0.1",
+  "description": "First appJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "training",
+    "JS",
+    "mean-stack"
+  ],
+  "author": "Gustaveddine",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
